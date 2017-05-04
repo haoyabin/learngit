@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 merge with fast forward model.
 fast forward off model.
+git stash.
